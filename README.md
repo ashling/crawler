@@ -9,8 +9,9 @@
 ## 软件安装  
 ## 语法格式  
 - json对象示例  
-	- 详情见wiki
-## git 语法测试
+	- 详情见wiki  
+
+## git 语法测试  
  \{
 	 "actions":"name"  
 	 "url" : "http://gitclub"  
